@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class main{
+public class calculator{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter value of a and b and operator");
@@ -36,3 +36,4 @@ public class main{
     }
     }
 }
+
