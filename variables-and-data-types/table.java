@@ -1,3 +1,7 @@
+/**
+Make a program that prints the table of a number that is input by the user. 
+*/
+
 import java.util.Scanner;
 public class table{
   public static void main(String[] args){
