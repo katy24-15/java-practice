@@ -1,3 +1,10 @@
+/**
+* * * * * 
+* * * * * 
+* * * * * 
+* * * * * 
+*/
+
 public class Solid_Rectangle {
     public static void main(String[] args) {
         int n = 4;
@@ -9,4 +16,5 @@ public class Solid_Rectangle {
             System.out.println();
         }
     }
+
 }
