@@ -1,3 +1,10 @@
+/**
+* * * *
+* * *
+* *
+*
+*/
+
 public class Inverted_Half_Pyramid {
     public static void main(String[] args) {
         int n = 4;
@@ -9,3 +16,4 @@ public class Inverted_Half_Pyramid {
         }
     }
 }
+
