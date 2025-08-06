@@ -1,3 +1,11 @@
+/**
+        * * * * *
+      * * * * *
+    * * * * *
+  * * * * *
+* * * * *
+*/
+
 public class Solid_Rhombus {
     public static void main(String[] args) {
         int n = 5;
@@ -14,3 +22,4 @@ public class Solid_Rhombus {
         }
     }
 }
+
