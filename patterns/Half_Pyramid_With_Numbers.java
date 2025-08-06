@@ -1,3 +1,11 @@
+/**
+1
+1 2 
+1 2 3
+1 2 3 4
+1 2 3 4 5
+*/
+
 public class Half_Pyramid_With_Numbers {
     public static void main(String[] args) {
         
@@ -9,4 +17,5 @@ public class Half_Pyramid_With_Numbers {
         System.out.println();
     }
   }
+
 }
