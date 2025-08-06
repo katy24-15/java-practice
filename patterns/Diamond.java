@@ -1,3 +1,14 @@
+/**
+   *
+  ***
+ *****
+*******
+*******
+ *****
+  ***
+   *
+*/
+
 public class Diamond {
     public static void main(String[] args) {
         int n = 4;
@@ -27,3 +38,4 @@ public class Diamond {
         }
     }
 }
+
